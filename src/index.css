@@ -1,0 +1,79 @@
+
+.aa{
+  position: fixed
+  
+
+}
+
+.ab{
+  padding-right: 300px;
+  
+  
+  
+}
+.bc{
+  padding-top: 200px;
+ }
+ .bb{
+  background-color: aqua;
+ }
+.bd{
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+.cf{
+  text-decoration-color: blue ;
+  p::first-line{color: blue;}
+  
+  
+}
+.fa{
+  padding-top: 100px;
+}
+
+.fb{
+  padding-left: 200px;
+}
+.ha{
+  padding-top: 100px;
+  background-color: aqua;
+}
+.ia{
+  padding-top: 100px;
+}
+.ib{
+  p::first-line {color: orange;}
+}
+.ja{
+  padding-top: 100px;
+  background-color: yellowgreen;
+ 
+  
+}
+.jd{
+  padding-top: 100px;
+}
+.ka{
+  display: flex;
+  padding-top: 100px;
+
+  
+}
+.la{
+  padding-top: 100px;
+  /* justify-content: space-between;
+  justify-content: space-around; */
+}
+
+.jj{
+  padding-top: 100px;
+  padding-left: 150px;
+  padding-bottom: 150px;
+}
+
+ 
+
+
+
+
+
